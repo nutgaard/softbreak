@@ -1,7 +1,7 @@
 # Softbreak
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Travis](https://img.shields.io/travis/nutgaard/softtbreak.svg)](https://travis-ci.org/nutgaard/softbreak)
+[![Travis](https://img.shields.io/travis/nutgaard/softbreak.svg)](https://travis-ci.org/nutgaard/softbreak)
 [![codecov](https://codecov.io/gh/nutgaard/softbreak/branch/master/graph/badge.svg)](https://codecov.io/gh/nutgaard/softbreak)
 [![dependencies Status](https://david-dm.org/nutgaard/softbreak/status.svg)](https://david-dm.org/nutgaard/softbreak)
 
