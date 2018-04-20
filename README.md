@@ -32,7 +32,7 @@ softbreak('alongwordhere');
 
 #### Types
 Full documentation of types can be seen [here](https://www.utgaard.xyz/softbreak/),
-or [here](https://github.com/nutgaard/softbreak/blob/master/src/types.ts) if you prefer reading typescript code.
+or [here](https://github.com/nutgaard/softbreak/blob/master/src/softbreak.ts) if you prefer reading typescript code.
 
 
 ### Tips
