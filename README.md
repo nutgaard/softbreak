@@ -7,6 +7,9 @@
 
 ### Installation
 
+### Result
+Long words will get a &shy;-character (default config) inserted into it to signal where the word-break can be.
+E.g The word 'strengths' would be converted into 'str­e­n­g­ths', which visually looks the same but actually is 4 characters longer.
 ```
 npm install softbreak --save-dev
 ```
